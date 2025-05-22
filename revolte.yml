@@ -17,7 +17,7 @@ revolte:
             variables:
               API_URL: /api/v1
     staging:
-      branch: staging
+      branch: qa
       services:
         rid_1:
           name: web-app
