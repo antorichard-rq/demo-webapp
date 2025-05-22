@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
-  project: DemoProject
-  appName: revolte-demo-webapp
+  project: ZenPro
+  appName: fe-app-deploy
   env:
     production:
       branch: main
