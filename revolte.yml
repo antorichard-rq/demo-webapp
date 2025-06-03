@@ -29,7 +29,7 @@ revolte:
             variables:
               API_URL: /api/v1
     qa:
-      branch: main
+      branch: qa
       services:
         rid_1:
           name: web-app
