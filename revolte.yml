@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
-  project: DemoProject
-  appName: revolte-demo-webapp
+  project: Untitled Project
+  appName: demo-frontend-app
   env:
     production:
       branch: main
@@ -10,7 +10,6 @@ revolte:
           name: web-app
           type: WEB_APP
           entryPoint: index.js
-          domain: fe.revolte.com
           properties:
             indexPage: index.html
             errorPage: error.html
